@@ -1,0 +1,10 @@
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\bin\Debug\MiApp.exe.config
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\bin\Debug\MiApp.exe
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\bin\Debug\MiApp.pdb
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\obj\Debug\MiApp.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\obj\Debug\MiApp.Form1.resources
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\obj\Debug\MiApp.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\obj\Debug\MiApp.csproj.GenerateResource.cache
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\obj\Debug\MiApp.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\obj\Debug\MiApp.exe
+C:\Users\Mauricio\Desktop\TryingGitHub\MiApp\obj\Debug\MiApp.pdb
