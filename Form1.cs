@@ -19,7 +19,12 @@ namespace MiApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hi","Greeting",MessageBoxButtons.OK,MessageBoxIcon.Information);
+            MessageBox.Show("Hola","En espanol",MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hi", "Greeting", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
         }
     }
 }
