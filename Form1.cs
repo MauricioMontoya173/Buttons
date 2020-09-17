@@ -23,7 +23,7 @@ namespace MiApp
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hi", "Greeting", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Hi from here", "Greeting for all", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
     }
